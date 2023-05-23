@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrunoUNascimento
-- 👀 I’m interested in atuar na area de desenvolvimento de software.     
+- 👀 I’m interested in atuar na area de TI.     
 - 🌱 I’m currently learning  Html, css e js.   
 - 
 - 📫 How to reach me brunooullmann@gmail.com        
