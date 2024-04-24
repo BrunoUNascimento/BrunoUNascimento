@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrunoUNascimento
 - 👀 I’m interested in atuar na area de desenvolvimento de software.     
 - 🌱 I’m currently learning  Java.   
-- 🌱i have a brief knowledge about html, css and javascript
+- 🌱I have knowledge in HTML and CSS
 - 📫 How to reach me brunooullmann@gmail.com        
 
 <!---
